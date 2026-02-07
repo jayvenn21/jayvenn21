@@ -1,4 +1,4 @@
-Hi, I’m Jayanth.
+Hi there, I’m Jayanth!
 
 I’m a CS student at Georgia Tech focused on real-time systems, ML infrastructure, and developer tooling. I’m interested in how complex systems behave under real constraints—latency, memory, concurrency, and long-running workloads—and how to make them safer and more reliable in practice.
 
