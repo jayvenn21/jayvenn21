@@ -1,9 +1,8 @@
-hello, i'm jayanth
+Hey there, I'm Jayanth!
 
-i’m a CS student at Georgia Tech focused on real-time systems, ML infrastructure, and developer tooling. I’m interested in how complex systems behave under real constraints—latency, memory, concurrency, and long-running workloads—and how to make them safer and more reliable in practice.
+Currently, I’m a CS student at Georgia Tech focused on real-time systems, ML infrastructure, and developer tooling.
 
-i work on performance-critical systems and open-source projects, mostly around reliability, guardrails, and production stability. I’ve contributed to ACE-Step and claude-mem / claude-supermemory.
+I work on performance-critical systems and open-source projects, mostly around reliability, guardrails, and production stability.
 
-i also build Obliqzn, a set of real-time audiovisual systems exploring DSP, audio-reactive graphics, and performance-critical browser rendering.
+I also have my own projects and ventures as well, ranging in topics from databases to audiovisual systems.
 
-i care about building things that keep working under real load, real users, and real time.
